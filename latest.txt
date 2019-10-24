@@ -1,0 +1,2 @@
+017/spm/base/3 15 nauvis day
+017/spm/base/3 15 nauvis night
